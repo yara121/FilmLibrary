@@ -221,8 +221,9 @@ export const Text = styled.p`
 `
 
 export const Logo = styled.img`
-  height: 36px;
-  width: 134px;
+  height: 400px;
+  width: 200px;
+  margin-top: 40px;
   margin-right: 40px;
 
   @media (min-width: 1449px) {

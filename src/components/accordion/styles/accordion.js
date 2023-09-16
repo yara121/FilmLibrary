@@ -2,7 +2,7 @@ import styled from "styled-components/macro"
 
 export const Container = styled.div`
   display: flex;
-  border-bottom: 8px solid #dae6ea;
+  border-bottom: 8px solid #d3d3d3;
 `
 
 export const Frame = styled.div`
@@ -22,7 +22,7 @@ export const Title = styled.h1`
   line-height: 1.1;
   margin-top: 0;
   margin-bottom: 8px;
-  color: #2b2d42;
+  color: #161a1d;
   text-align: center;
 
   @media (max-width: 600px) {
@@ -31,7 +31,7 @@ export const Title = styled.h1`
 `
 
 export const Item = styled.div`
-  color: #2b2d42;
+  color: #161a1d;
   margin: auto;
   margin-bottom: 10px;
   max-width: 728px;
@@ -52,7 +52,7 @@ export const Header = styled.div`
   margin-bottom: 1px;
   font-size: 26px;
   font-weight: normal;
-  background: ##2b2d42;
+  background: #f5f3f4;
   padding: 0.8em 1.2em 0.8em 1.2em;
   user-select: none;
   align-items: center;

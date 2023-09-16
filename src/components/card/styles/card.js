@@ -2,6 +2,7 @@ import styled from "styled-components/macro"
 
 export const Title = styled.p`
   font-size: 24px;
+
   color: #2b2d42;
   font-weight: bold;
   margin-left: 56px;
@@ -31,8 +32,13 @@ export const Group = styled.div`
     flexDirection === "row" ? "row" : "column"};
   ${({ alignItems }) => alignItems && `align-items: ${alignItems}`};
   ${({ margin }) => margin && `margin: ${margin}`};
-
+  > ${Title}:first-of-type {
+    color: #fff;
+  }
   > ${Container}:first-of-type {
+    ${Title}:first-of-type {
+      color: #fff;
+    }
     @media (min-width: 1100px) {
       margin-top: -100px;
     }
@@ -121,7 +127,7 @@ export const Item = styled.div`
 
 export const FeatureText = styled.p`
   font-size: 18px;
-  color: white;
+  color: #d3d3d3;
   font-weight: ${({ fontWeight }) =>
     fontWeight === "bold" ? "bold" : "normal"};
   margin: 0;
@@ -159,6 +165,7 @@ export const Feature = styled.div`
 
 export const FeatureTitle = styled(Title)`
   margin-left: 0;
+  color: #fff;
 `
 
 export const FeatureClose = styled.button`
