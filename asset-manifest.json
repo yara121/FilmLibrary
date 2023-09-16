@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/Netflix-clone/static/js/main.4b54f811.chunk.js",
-    "main.js.map": "/Netflix-clone/static/js/main.4b54f811.chunk.js.map",
-    "runtime-main.js": "/Netflix-clone/static/js/runtime-main.27d518ed.js",
-    "runtime-main.js.map": "/Netflix-clone/static/js/runtime-main.27d518ed.js.map",
-    "static/css/2.764ccc25.chunk.css": "/Netflix-clone/static/css/2.764ccc25.chunk.css",
-    "static/js/2.7937cc37.chunk.js": "/Netflix-clone/static/js/2.7937cc37.chunk.js",
-    "static/js/2.7937cc37.chunk.js.map": "/Netflix-clone/static/js/2.7937cc37.chunk.js.map",
-    "index.html": "/Netflix-clone/index.html",
-    "precache-manifest.5f019fb9e709c69acdfca8d49448786e.js": "/Netflix-clone/precache-manifest.5f019fb9e709c69acdfca8d49448786e.js",
-    "service-worker.js": "/Netflix-clone/service-worker.js",
-    "static/css/2.764ccc25.chunk.css.map": "/Netflix-clone/static/css/2.764ccc25.chunk.css.map",
-    "static/js/2.7937cc37.chunk.js.LICENSE.txt": "/Netflix-clone/static/js/2.7937cc37.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Netflix-clone/static/media/logo.9fd00415.svg"
+    "main.js": "/FilmLibrary/static/js/main.4b54f811.chunk.js",
+    "main.js.map": "/FilmLibrary/static/js/main.4b54f811.chunk.js.map",
+    "runtime-main.js": "/FilmLibrary/static/js/runtime-main.b25840f5.js",
+    "runtime-main.js.map": "/FilmLibrary/static/js/runtime-main.b25840f5.js.map",
+    "static/css/2.764ccc25.chunk.css": "/FilmLibrary/static/css/2.764ccc25.chunk.css",
+    "static/js/2.4cb15afa.chunk.js": "/FilmLibrary/static/js/2.4cb15afa.chunk.js",
+    "static/js/2.4cb15afa.chunk.js.map": "/FilmLibrary/static/js/2.4cb15afa.chunk.js.map",
+    "index.html": "/FilmLibrary/index.html",
+    "precache-manifest.0991e3a880928ef61ffda0a2cb568c76.js": "/FilmLibrary/precache-manifest.0991e3a880928ef61ffda0a2cb568c76.js",
+    "service-worker.js": "/FilmLibrary/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/FilmLibrary/static/css/2.764ccc25.chunk.css.map",
+    "static/js/2.4cb15afa.chunk.js.LICENSE.txt": "/FilmLibrary/static/js/2.4cb15afa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/FilmLibrary/static/media/logo.9fd00415.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.27d518ed.js",
+    "static/js/runtime-main.b25840f5.js",
     "static/css/2.764ccc25.chunk.css",
-    "static/js/2.7937cc37.chunk.js",
+    "static/js/2.4cb15afa.chunk.js",
     "static/js/main.4b54f811.chunk.js"
   ]
 }
